@@ -1,0 +1,9 @@
+{
+  "BreadCrumb": {
+    "title": "Merhaba Dünya!"
+  },
+  "LocaleSwitcher": {
+    "label": "Dili değiştir",
+    "locale": "{locale, select, de {🇩🇪 Almanca} en {🇺🇸 İngilizce} other {tr Türkçe}}"
+  }
+}
