@@ -10,7 +10,7 @@ export default function Home() {
       <main className="flex flex-col gap-8 row-start-2 items-center sm:items-start">
         <h1>
           DAY.JS Format
-          <div>{b}</div>
+          <div> {b} </div>
         </h1>
         <Counter />
         <Image
